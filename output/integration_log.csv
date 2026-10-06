@@ -1,0 +1,126 @@
+record_id,run_id,sample_number,raw_adc,raw_temperature_c,raw_unit,sensor_status,validation_decision,validation_reason,spike_flag,filter_decision,accepted_status,accepted_value_c,value_used_c,engineering_status,engineering_reason,valve_family,engineering_coefficient,engineering_method
+1,1,1,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+2,1,2,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+3,1,3,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+4,1,4,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+5,1,5,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+6,1,6,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+7,1,7,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+8,1,8,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+9,1,9,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+10,1,10,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+11,1,11,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+12,1,12,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+13,1,13,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+14,1,14,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+15,1,15,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+16,1,16,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+17,1,17,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+18,1,18,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+19,1,19,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+20,1,20,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+21,1,21,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+22,1,22,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+23,1,23,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+24,1,24,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+25,1,25,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+26,1,26,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+27,1,27,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+28,1,28,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+29,1,29,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+30,1,30,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+31,1,31,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+32,1,32,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+33,1,33,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+34,1,34,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+35,1,35,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+36,1,36,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+37,1,37,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+38,1,38,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+39,1,39,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+40,1,40,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+41,1,41,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+42,1,42,467,29.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,29,29,CALCULATED,accepted sensor value used by original tool,VX-200,1.176,interpolation
+43,1,43,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+44,1,44,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+45,1,45,546,22.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,22,22,CALCULATED,accepted sensor value used by original tool,VX-200,1.148,interpolation
+46,1,46,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+47,1,47,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+48,1,48,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+49,1,49,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+50,1,50,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+51,1,51,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+52,1,52,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+53,1,53,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+54,1,54,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+55,1,55,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+56,1,56,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+57,1,57,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+58,1,58,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+59,1,59,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+60,1,60,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+61,1,61,534,23.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,23,23,CALCULATED,accepted sensor value used by original tool,VX-200,1.152,interpolation
+62,1,62,241,54.1,C,OUT_OF_RANGE,VALID_WITH_WARNING,suspicious spike,true,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+63,1,63,187,63.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+64,1,64,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+65,1,65,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+66,1,66,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+67,1,67,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+68,1,68,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+69,1,69,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+70,1,70,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+71,1,71,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+72,1,72,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+73,1,73,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+74,1,74,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+75,1,75,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+76,1,76,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+77,1,77,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+78,1,78,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+79,1,79,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+80,1,80,153,70.0,C,OUT_OF_RANGE,VALID,numeric Celsius reading,false,REJECT_RANGE,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+81,1,81,393,36.0,C,OK,VALID_WITH_WARNING,suspicious spike,true,ACCEPT,ACCEPTED,36,36,CALCULATED,accepted sensor value used by original tool,VX-200,1.2069999999999999,interpolation
+82,1,82,639,14.0,C,OK,VALID_WITH_WARNING,suspicious spike,true,ACCEPT,ACCEPTED,14,14,CALCULATED,accepted sensor value used by original tool,VX-200,1.116,interpolation
+83,1,83,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+84,1,84,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+85,1,85,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+86,1,86,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+87,1,87,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+88,1,88,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+89,1,89,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+90,1,90,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+91,1,91,512,25.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,25,25,CALCULATED,accepted sensor value used by original tool,VX-200,1.16,interpolation
+92,1,92,523,24.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,24,24,CALCULATED,accepted sensor value used by original tool,VX-200,1.156,interpolation
+93,1,93,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+94,1,94,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+95,1,95,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+96,1,96,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+97,1,97,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+98,1,98,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+99,1,99,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+100,1,100,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+101,2,1,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+102,2,2,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+103,2,3,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+104,2,4,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+105,2,5,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+106,2,6,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+107,2,7,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+108,2,8,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+109,2,9,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+110,2,10,,,C,SIMULATED_MISSING,INVALID,missing temperature,false,REJECT_MISSING_OR_INVALID,REJECTED,,,NOT_RUN,sensor reading rejected before engineering calculation,VX-200,,
+111,2,11,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+112,2,12,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+113,2,13,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+114,2,14,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+115,2,15,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+116,2,16,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+117,2,17,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+118,2,18,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+119,2,19,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+120,2,20,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+121,2,21,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+122,2,22,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+123,2,23,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+124,2,24,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
+125,2,25,489,27.0,C,OK,VALID,numeric Celsius reading,false,ACCEPT,ACCEPTED,27,27,CALCULATED,accepted sensor value used by original tool,VX-200,1.168,interpolation
