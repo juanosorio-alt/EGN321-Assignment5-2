@@ -1,0 +1,9 @@
+record_id,run_id,sample_number,raw_adc,temperature_c,unit,sensor_status,case
+T1,T,1,512,25.0,C,OK,normal reading
+T2,T,2,500,26.0,C,OK,normal variation
+T3,T,3,1023,0.0,C,OK,boundary lower
+T4,T,4,300,50.0,C,OK,boundary upper
+T5,T,5,241,54.1,C,OUT_OF_RANGE,out of range
+T6,T,6,700,14.0,C,OK,suspicious spike
+T7,T,7,,,C,SIMULATED_MISSING,missing reading
+T8,T,8,489,27.0,C,OK,valid through engineering calculation
